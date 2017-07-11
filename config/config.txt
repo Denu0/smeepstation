@@ -1,8 +1,8 @@
 ## Server name: This appears at the top of the screen in-game and in the BYOND hub. Uncomment and replace 'tgstation' with the name of your choice.
-# SERVERNAME tgstation
+ SERVERNAME Smeepstation
 
 ## Server SQL name: This is the name used to identify the server to the SQL DB, distinct from SERVERNAME as it must be at most 32 characters.
-# SERVERSQLNAME tgstation
+ SERVERSQLNAME smeepst
 
 ## Station name: The name of the station as it is referred to in-game. If commented out, the game will generate a random name instead.
 STATIONNAME Space Station 13
@@ -165,7 +165,7 @@ CHECK_RANDOMIZER
 # FORUMURL http://tgstation13.org/phpBB/index.php
 
 ## Wiki address
-# WIKIURL http://www.tgstation13.org/wiki
+# WIKIURL https://tgstation13.org/wiki/Main_Page
 
 ## Rules address
 # RULESURL http://www.tgstation13.org/wiki/Rules
